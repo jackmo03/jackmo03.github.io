@@ -1,7 +1,6 @@
 ---
 title: chapter00
 date: 2025-05-24 12:40:47
-archive: true
 tags:
 ---
 
