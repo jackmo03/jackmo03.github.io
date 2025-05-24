@@ -80,7 +80,5 @@ tags:
 
 [^6]: 此处为化万学员长帆的代称。"钒矾"也指此人。
 
-[^7]: László Kurtis and Barbara Zakó, Strategic Applications of Named
+[^7]: László Kurtis and Barbara Zakó, Strategic Applications of Named Reactions in Organic Synthesis
 
-    Reactions in Organic Synthesis(Background and Detailed
-    Mechanisms)\[M\], Elsevier Academic Press.
