@@ -1,12 +1,8 @@
 ---
 title: hitszthesis
 date: 2025-05-26 11:07:03
-tags:scholar
+tags:
 ---
-
-
-
-  
 
 提供的本科毕设word模板具有非常多的格式毛病，全部按着写容易被痛批“从头错到尾”。而且由于office祖传的单核优化，图文太长会导致卡顿，MathML对长公式也很不友好。遂改用网传的LaTeX模板（
 
